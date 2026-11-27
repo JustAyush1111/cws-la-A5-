@@ -33,7 +33,7 @@ https://www.figma.com/design/9B57ZxI7yIBbmaAAGRLwHS/CWS-PROJECT?node-id=0-1&t=Je
 
 
 LIVE WEBSITE LINK
-file:///Users/nyasa/Downloads/MY%20DIGITAL%20TRAVEL%20DIARY%20/index.html
+https://drive.google.com/drive/folders/1ppoETw06kq0jDzX_UQQpHsBCYFEZ2RPX?usp=sharing
 
 
 CREDITS 
